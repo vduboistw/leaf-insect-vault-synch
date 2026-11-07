@@ -1,0 +1,11 @@
+Pulchriphyllium pulchrifolium colony — New Moon status update
+Checkpoint: 2026-08-15
+Cycle covered: 2026-08-02 through 2026-08-15
+
+The colony closes this half-cycle with three live adult females: Bethany, Deborah and Liza. No males remain. All three females remain active layers. The latest quantified July cohort count available in the project record is 46 eggs as of 2026-07-28. During Sam's caretaker period, daily egg output appeared broadly stable, but by 2026-08-13 he reported that newly laid eggs seemed progressively smaller than earlier eggs. This has not yet been measured or attributed to a particular female and should remain an observation rather than an interpretation.
+
+Environmental conditions were variable but generally within the established summer-management pattern. The cycle began with very hot and dry pre-typhoon weather. The enclosure reached 33.3°C on 2026-08-05, the highest recorded value in this cycle, while several humidity minima fell into the mid-to-upper 50s. Typhoon influence on 2026-08-09 brought a marked cooling to roughly 28–29°C, followed by very mild post-typhoon conditions on 2026-08-10 and higher humidity. Temperatures then returned gradually toward 29–31°C. A full-day enclosure dataset is missing for 2026-08-04 and is retained explicitly as a gap. Screenshot-derived values marked approximate in the source log remain approximate in the archive.
+
+Established husbandry continued with guava as the primary food and wax apple available, plus active summer ventilation and humidity management as needed. Sam remained caretaker through 2026-08-15 while Vincent was away; Vincent resumes direct colony care from 2026-08-16. No confirmed moult, new individual, death/removal, or individually attributable abnormal behaviour occurred during this cycle, so the Individual Progression Table does not require a biological-status rewrite at this checkpoint.
+
+Main priorities for the next cycle are to quantify the reported decrease in egg size against earlier retained eggs if practical; continue high-level monitoring of daily laying rate; watch for any recurrence of Deborah's pale/white eggs or pale crystalline frass; and continue careful temperature, humidity, ventilation and foliage-freshness management. Detailed egg fertility and hatch outcomes remain separate from this enclosure log.

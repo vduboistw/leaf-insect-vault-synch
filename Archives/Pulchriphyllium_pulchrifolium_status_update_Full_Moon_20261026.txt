@@ -1,0 +1,14 @@
+Pulchriphyllium pulchrifolium — Full Moon cycle status handoff
+Closed cycle: 2026-10-11 through 2026-10-26 (inclusive)
+Previous archive: 2026-09-26 through 2026-10-10 (New Moon)
+Next cycle begins: 2026-10-27
+
+Population: Bethany and Liza remain the two living adult females, both historically active egg layers. No adult males remain. At the 2026-10-23 foliage change, both appeared well. No confirmed individual-status change requiring alteration of the authoritative Individual Progression Table was reported in this cycle. The separate Hannah June-cohort hatchling log is maintained independently; its latest counts should not be inferred from this adult enclosure log.
+
+Setup and husbandry: On 2026-10-13 the adult enclosure was relocated from the Summer Palace/guest room to the top floor adjacent to the tatami room and roof garden. Guava and garden mango remain important foliage; wax-apple purchases are paused to reduce waste. Foliage was replaced on 10/12, 10/18, and 10/23. The spare branch-holder with silicone water-reservoir cover remains the carry-forward baseline; inspect reservoir hygiene and worn original cover.
+
+Environment: Graph-estimated full-day readings are available for 10/11–10/17, with original approximation markers preserved in the Excel extract. The warm spell culminated in 31.7°C on 10/17 and a recorded 32.7°C at approximately 13:00 on 10/18, with RH 56% at that moment. Around 15:00 on 10/18, the adjacent tatami-room AC was used manually for approximately 30 minutes; exterior mesh walls were misted. By approximately 16:00 the enclosure had cooled to about 28°C and RH returned to around 60%. The RH rebound was actively influenced by misting; it must not be interpreted as passive recovery or AC-only performance. The monthly curve indicates cooling and generally higher RH thereafter. The 10/23 monthly-view tooltip displays RH 78%, but its averaging semantics are not independently established. Exact daily datasets for 10/19–10/26 are unavailable; no invented daily minima/maxima or means have been used.
+
+Watch points: Monitor the top-floor enclosure for renewed >32°C excursions and AC-related humidity declines. Bethany's dry terminal abdominal stain was last explicitly reported unchanged on 2026-09-28; absence of a new report is not a fresh examination. Continue checking branch-holder reservoir hygiene and the adult females' feeding, grip, frass and laying. Preserve missing environmental data as explicit gaps.
+
+Next-cycle priorities: Begin append-only log on 2026-10-27 with one carry-forward seed row. Record subsequent inspections and environmental data as dated additions; keep the separate hatchling log distinct. Maintain distinction between exact sensor tooltips, visually estimated graph values, and qualitative monthly-curve trends.
